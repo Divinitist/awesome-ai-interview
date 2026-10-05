@@ -1,2 +1,3 @@
 # awesome-ai-interview
-AI 领域面试知识集锦，含引用与补充。
+
+- [三年面试五年模拟](https://github.com/WeThinkIn/AIGC-Interview-Book)
